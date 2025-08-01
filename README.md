@@ -1,8 +1,16 @@
 # nba-management-system
+
 ## Description
+
 Système de gestion et d'analyse de données NBA développé en Python utilisant la programmation orientée objet.
 
+## Réalisé par :
+
+- OUDRAOGO LASSINA
+- POUBERE ABDOURAZAKOU
+
 ## Fonctionnalités
+
 - ✅ Gestion des équipes NBA
 - ✅ Gestion des joueurs et transferts
 - ✅ Suivi des statistiques et performances
@@ -10,6 +18,7 @@ Système de gestion et d'analyse de données NBA développé en Python utilisant
 - ✅ Sauvegarde des données
 
 ## Architecture
+
 - **5+ Classes** avec héritage, association et composition
 - **Programmation Orientée Objet** complète
 - **Interface utilisateur** interactive
@@ -18,9 +27,12 @@ Système de gestion et d'analyse de données NBA développé en Python utilisant
 ## Installation et Utilisation
 
 ### Prérequis
+
 - Python 3.9+
 
 ### Lancement
+
 ```bash
 cd code
 python main.py
+```
