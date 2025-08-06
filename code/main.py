@@ -1,6 +1,6 @@
 import tkinter as tk
 from tkinter import messagebox
-from nba_api_client import NBAGuiWithAPI
+# from nba_api_client import NBAGuiWithAPI
 from nba_gui import NBAGui
 
 
