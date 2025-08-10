@@ -6,7 +6,7 @@ Système de gestion et d'analyse de données NBA développé en Python utilisant
 
 ## Auteurs du projet
 
-- 👤 OUDRAOGO LASSINA – [GitHub1](https://github.com/katabtenga-source)
+- 👤 OUEDRAOGO LASSINA – [GitHub1](https://github.com/katabtenga-source)
 - 👤 POUBERE ABDOURAZAKOU – [GitHub2](https://github.com/POUBERE)
 
 ## Fonctionnalités
